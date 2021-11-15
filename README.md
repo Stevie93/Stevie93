@@ -1,7 +1,5 @@
 # Hi, I'm SFM! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=stevie93.visitor-badge)
 
-[Make your own badges!][custom badges]
-
 [![SFM's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevie93)](https://github.com/stevie93/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevie93)](https://github.com/stevie93/github-readme-stats)
 
