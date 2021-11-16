@@ -1,6 +1,6 @@
 # Hi, I'm SFM! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=stevie93.visitor-badge)
 
-## I’m interested in Data Analytics
+## I’m interested in
 - Python
 - Data Analytics
 
